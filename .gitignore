@@ -162,3 +162,4 @@ $RECYCLE.BIN/
 src/Modules/**/launchSettings.json
 PublishProfiles/
 logs/
+config.bat
